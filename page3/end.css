@@ -1,0 +1,27 @@
+.greetings {
+
+    text-align: center;
+    padding-top: 270px;
+    font-size: 60px;
+}
+
+button {
+
+    font-size: 30px;
+    margin-left: 60px;
+    margin-top: 40px;
+    background-color: black
+    color:bisque
+}
+
+body {
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphjCCbP_V2LYbNlw1JV90U7hyfhC8M1nrxQ&s");
+    
+}
+
+.end {
+
+    margin-left: 1600px;
+    margin-top: 100px;
+}

@@ -1,0 +1,77 @@
+body {
+
+    background-color:gainsboro;
+    font-display: block;
+    font-size: 30px;
+
+    
+    
+}
+
+
+.Efforts {
+
+    font-size: 50px;
+    color: whitesmoke;
+    background-color: black;
+
+}
+
+.Button {
+
+    background-color: blue;
+    color: white;
+
+}
+
+    
+
+
+
+
+
+.End {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-color: rgb(177, 107, 15);
+    color: black;
+
+    
+}
+
+button {
+
+    border-radius: 50px;
+}
+
+
+
+
+.group{
+
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+
+
+
+}
+.MERN {
+
+    font-size: 50px;
+   
+}
+
+a {
+     
+     padding-left: 700px;
+}
+
+
+
+
+
+
+
+
