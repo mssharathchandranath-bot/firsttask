@@ -1,0 +1,82 @@
+
+body{
+    background:orange;
+}
+
+.nav{
+
+    display:flex
+    
+
+}
+
+.Home li{
+    padding: 15px;
+ display: inline-block;
+ font-size: 20px;
+ }
+
+ .Home{
+
+    margin-left: 1200px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 25px;
+ }
+
+ .discover{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .Standard{
+
+font-size: 25px;
+ }
+
+ .discover2{
+
+    display: flex;
+ }
+
+ .image{
+
+    padding-top: 200px;
+    padding-left: 700px;
+    
+ }
+
+ img {
+
+width: 400px;
+ }
+.Voucher {
+
+    display:flex;
+    
+}
+
+.card{
+
+    margin: 20px;
+    padding: 10px;
+}
+button{
+
+    padding: 20px;
+    border-radius: 20px;
+}
+.wild
+{
+
+    background-color: pink;
+}
+.word{
+    background-color: rgb(245, 124, 144);
+}
+
+.image2 {
+
+    width: 25px;
+    margin-left: 250px;
+}
